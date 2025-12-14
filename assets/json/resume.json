@@ -35,39 +35,38 @@
 "education": [
   {
     "institution": "Université Clermont Auvergne",
-    "location": "Clermont-Ferrand, France",
+    "location": "France",
     "studyType": "PhD",
     "area": "Computer Science",
     "startDate": "2021-10",
-    "endDate": "",
-    "summary": "Dissertation: \"Bargaining Solutions for Biobjective Combinatorial Optimization with Applications to Graph Covering Problems.\""
+    "endDate": "2025-11",
+    "summary": "Dissertation: 'Bargaining Solutions for Biobjective Combinatorial Optimization with Applications to Graph Covering Problems.'"
   },
   {
     "institution": "Université Paris-Saclay",
-    "location": "Gif-sur-Yvette, France",
+    "location": "France",
     "studyType": "Master's Degree",
     "area": "Optimization",
     "startDate": "2020-09",
-    "endDate": "2021-09",
-    "summary": "Coursework: Operations Research, Optimization, and Game Theory. \n Dissertation: \"Spanning k-Ended Trees in Graph Theory.\""
+    "endDate": "2021-09."
   },
   {
     "institution": "Institute of Mathematics",
     "location": "Hanoi, Vietnam",
-    "studyType": "Pre-Master Program",
+    "studyType": "Master's Degree",
     "area": "Mathematics",
     "startDate": "2019-09",
     "endDate": "2020-08",
-    "summary": "International pre-master program in mathematics."
+    "summary": "Coursework in applied mathematics."
   },
   {
     "institution": "Hanoi National University of Education",
     "location": "Hanoi, Vietnam",
     "studyType": "Bachelor's Degree",
     "area": "Mathematics and Education",
-    "startDate": "2015-09",
+    "startDate": "2015-06",
     "endDate": "2019-06",
-    "summary": "Undergraduate degree in mathematics and education."
+    "summary": "Coursework in pure mathematics and education."
   }
 ],
   "awards": [
