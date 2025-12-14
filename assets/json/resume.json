@@ -40,7 +40,7 @@
     "area": "Computer Science",
     "startDate": "2021-10",
     "endDate": "2025-11",
-    "highlights": ["Dissertation: 'Bargaining Solutions for Biobjective Combinatorial Optimization with Applications to Graph Covering Problems.'"]
+    "courses": ["Dissertation: 'Bargaining Solutions for Biobjective Combinatorial Optimization with Applications to Graph Covering Problems.'"]
   },
   {
     "institution": "Université Paris-Saclay",
@@ -49,7 +49,7 @@
     "area": "Optimization",
     "startDate": "2020-09",
     "endDate": "2021-09",
-    "highlights": [ "Coursework: Operations Research, Optimization, and Game Theory.",
+    "courses": [ "Coursework: Operations Research, Optimization, and Game Theory.",
     "Dissertation: 'Spanning k-Ended Trees in Graph Theory.'"]
   },
   {
@@ -59,7 +59,7 @@
     "area": "Mathematics",
     "startDate": "2019-09",
     "endDate": "2020-08",
-    "highlights": ["Coursework in applied mathematics."]
+    "courses": ["Coursework in applied mathematics."]
   },
   {
     "institution": "Hanoi National University of Education",
@@ -68,7 +68,7 @@
     "area": "Mathematics and Education",
     "startDate": "2015-06",
     "endDate": "2019-06",
-    "highlights": ["Coursework in pure mathematics and education."]
+    "courses": ["Coursework in pure mathematics and education."]
   }
 ],
   "awards": [
