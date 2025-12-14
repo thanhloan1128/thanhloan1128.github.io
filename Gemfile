@@ -21,7 +21,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-
+end
 
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
