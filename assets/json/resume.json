@@ -40,7 +40,7 @@
     "area": "Computer Science",
     "startDate": "2021-10",
     "endDate": "2025-11",
-    "highlights": ["Dissertation: \"Bargaining Solutions for Biobjective Combinatorial Optimization with Applications to Graph Covering Problems.\""]
+    "highlights": ["Dissertation: 'Bargaining Solutions for Biobjective Combinatorial Optimization with Applications to Graph Covering Problems.'"]
   },
   {
     "institution": "Université Paris-Saclay",
@@ -48,10 +48,9 @@
     "studyType": "Master's Degree",
     "area": "Optimization",
     "startDate": "2020-09",
-    "endDate": "2021-09."
-    "highlights": [
-    "Coursework: Operations Research, Optimization, and Game Theory.",
-    "Dissertation: \"Spanning k-Ended Trees in Graph Theory.\""]
+    "endDate": "2021-09",
+    "highlights": [ "Coursework: Operations Research, Optimization, and Game Theory.",
+    "Dissertation: 'Spanning k-Ended Trees in Graph Theory.'"]
   },
   {
     "institution": "Institute of Mathematics",
