@@ -85,11 +85,22 @@
 ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Sophie Germain Scholarship",
+      "date": "2020",
+      "awarder": "Jacques Hadamard Mathematical Foundation, France",
+      "summary": "Competitive scholarship awarded by the FMJH to support outstanding students enrolled in mathematics Master's programs in Paris-Saclay University."
+    },
+    {
+      "title": "Excellence Scholarship",
+      "date": "2019",
+      "awarder": "Vingroup Innovation Foundation, Vietnam",
+      "summary": "Awarded to high-achieving students with exceptional academic performance and strong potential in mathematics."
+    },
+    {
+      "title": "National Mathematics Development Program Scholarship",
+      "date": "2018",
+      "awarder": "Vietnam",
+      "summary": "National scholarship awarded to outstanding students with excellent academic achievements in mathematics."
     }
   ],
   "skills": [
@@ -110,11 +121,11 @@
       ]
     },
     {
-      "name": "Programming & scientific computing",
+      "name": "Programming",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
       "keywords": [
-        "Python, C++, MATLAB, NumPy, SciPy, LaTeX"
+        "Python, C++, MATLAB"
       ]
     }
   ],
