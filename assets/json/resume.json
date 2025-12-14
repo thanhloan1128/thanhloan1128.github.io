@@ -36,10 +36,10 @@
   },
   {
     "order": 3,
-    "startDate": "2020",
-    "endDate": "2023",
+    "startDate": "2020-01",
+    "endDate": "2023-12",
     "location": "Vietnam",
-    "position": "Researcher",
+    "position": "Researcher (onsite and remote)",
     "name": "Institute of Mathematics, VAST",
     "summary": "Graph theory and combinatorics."
   }
