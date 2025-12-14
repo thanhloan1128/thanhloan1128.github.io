@@ -21,28 +21,24 @@
     "endDate": "",
     "location": "France",
     "position": "PhD Researcher",
-    "name": "Université Clermont Auvergne"
+    "name": "Université Clermont Auvergne, LIMOS",
+    "summary": "Fairness-based multiobjective combinatorial optimization."
   },
   {
     "startDate": "2021",
     "endDate": "2021",
     "location": "France",
     "position": "Research Intern",
-    "name": "Université Paris-Saclay (LRI)"
+    "name": "Université Paris-Saclay, LRI",
+    "summary": "Graph-based optimization models."
   },
   {
     "startDate": "2020",
     "endDate": "2023",
     "location": "Vietnam",
     "position": "Researcher",
-    "name": "Institute of Mathematics, VAST"
-  },
-  {
-    "startDate": "2019",
-    "endDate": "2019",
-    "location": "Vietnam",
-    "position": "Research Intern",
-    "name": "Institute of Mathematics, VAST"
+    "name": "Institute of Mathematics, VAST",
+    "summary": "Graph theory and combinatorics."
   }
 ],
 "education": [
