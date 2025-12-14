@@ -15,17 +15,36 @@
     },
     "profiles": []
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
+"work": [
+  {
+    "startDate": "2021",
+    "endDate": "",
+    "location": "France",
+    "position": "PhD Researcher",
+    "name": "Université Clermont Auvergne"
+  },
+  {
+    "startDate": "2021",
+    "endDate": "2021",
+    "location": "France",
+    "position": "Research Intern",
+    "name": "Université Paris-Saclay (LRI)"
+  },
+  {
+    "startDate": "2020",
+    "endDate": "2023",
+    "location": "Vietnam",
+    "position": "Researcher",
+    "name": "Institute of Mathematics, VAST"
+  },
+  {
+    "startDate": "2019",
+    "endDate": "2019",
+    "location": "Vietnam",
+    "position": "Research Intern",
+    "name": "Institute of Mathematics, VAST"
+  }
+],
 "education": [
   {
     "institution": "Université Clermont Auvergne",
