@@ -18,8 +18,8 @@
 "work": [
   {  
     "order": 1,
-    "startDate": "2021",
-    "endDate": "2025",
+    "startDate": "2021-11",
+    "endDate": "2025-11",
     "location": "France",
     "position": "PhD Researcher",
     "name": "Université Clermont Auvergne, LIMOS",
@@ -27,8 +27,8 @@
   },
   {
     "order": 2,
-    "startDate": "2021",
-    "endDate": "2021",
+    "startDate": "2021-03",
+    "endDate": "2021-09",
     "location": "France",
     "position": "Research Intern",
     "name": "Université Paris-Saclay, LRI",
