@@ -13,8 +13,8 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: true
-  scrollable: true
+  enabled: false
+  scrollable: false
   limit: 5
 ---
 
