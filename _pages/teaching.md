@@ -7,12 +7,15 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching Experience
-
-**Teaching Assistant, ISIMA — Université Clermont Auvergne INP**  
+## ISIMA — Université Clermont Auvergne INP  
 *September 2024 – June 2025*
 
-### Courses
+### Teaching assistant and lecturer
 - Matrix Numerical Analysis  
 - Nonlinear Optimization
 
+## Hanoi National University of Education High School for Gifted Students 
+*2018 – 2019*
+
+### Teaching intern
+- Mathematics (Algebra and Calculus)
