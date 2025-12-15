@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Thanh NGUYEN",
+    "name": "Thanhloan NGUYEN",
     "label": "Research Scientist",
     "image": "",
     "email": "ntloan@math.ac.vn",
@@ -39,7 +39,7 @@
     "startDate": "2020-01",
     "endDate": "2023-12",
     "location": "Vietnam",
-    "position": "Researcher (onsite and remote)",
+    "position": "Researcher",
     "name": "Institute of Mathematics, VAST",
     "summary": "Graph theory and combinatorics."
   }
