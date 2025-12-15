@@ -19,7 +19,7 @@ nav_order: 8
   *Programme Gaspard Monge pour l’Optimisation (PGMO)*, Paris, France.
 
 * **Polyhedral aspects of the star forest problem on cactus graphs**,  
-  *Programme Gaspard Monge pour l’Optimisation (PGMO)*, Amiens, France.
+  *Congrès annuel de la ROADEF*, Amiens, France.
 
 ---
 
