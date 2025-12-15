@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: Multi-objective Optimization
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
 
 selected_papers: true
 social: true
